@@ -7,4 +7,3 @@ cvzone
 streamlit_webrtc
 streamlit
 pillow
-watch dog
