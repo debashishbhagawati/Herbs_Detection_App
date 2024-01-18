@@ -7,3 +7,4 @@ cvzone
 streamlit_webrtc
 streamlit
 pillow
+opencv-python-headless
