@@ -1,0 +1,4 @@
+train: /Users/debashishbhagawati/Desktop/data final/TRAIN
+val: /Users/debashishbhagawati/Desktop/data final/TRAIN
+nc: 12
+names: ['Alovera','Arali','Ashoka','Astma Weed', 'Badipala','Bhrami','Bhingaraja','Eucalyptus','Neem','Mint','Tarmarind','Tulsi']
